@@ -1,6 +1,6 @@
 # chattingo_plus
 
-A new Flutter project.
+A new Flutter project. hahahah
 
 ## Getting Started
 
